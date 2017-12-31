@@ -11,4 +11,4 @@ sentences$text <- gsub('\n', ' ', sentences$text) # replace newlines with spaces
 questions <- sentences[grep("?", sentences$text, fixed = TRUE),]
 
 # output the questions to a CSV
-write.csv(questions, "aogg_questions.csv")
+write.csv(questions, "../aogg_questions.csv")
