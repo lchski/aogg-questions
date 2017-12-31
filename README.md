@@ -1,4 +1,4 @@
-# Anne of Green Gables Questions
+# *Anne of Green Gables* Questions
 
 Anne Shirley asks a lot of questions. As I reread *Anne of Green Gables*, I was
 struck by the volume and variety of her inquiries. Wanting to practice my text
